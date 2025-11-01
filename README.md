@@ -1,15 +1,75 @@
-<h1 align="center">Hi 👋, I'm SAKIF ANAM</h1>
-<h3 align="center">Minimal code, maximum impact. Passionate about algorithms, clean design, and open source.</h3>
+<h1 align="center">
+  💙 Ahoy, I'm <a href="https://github.com/Sakif-Anam" target="_blank">Sakif Anam</a> 👾
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sakif-anam&label=Profile%20views&color=0e75b6&style=flat" alt="sakif-anam" /> </p>
+<h3 align="center"> Frontend Developer | UI Explorer | Pac-Man of the Code Maze 🎮</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakif-anam" alt="sakif-anam" /></a> </p>
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=700&lines=Designing+smooth+and+responsive+UIs!;Turning+ideas+into+interactive+reality!;HTML%2C+CSS%2C+JS+%E2%9A%A1+are+my+power+pellets!;Coding+with+precision+and+style!;Keep+moving%2C+keep+creating!+👾" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakif-anam&show_icons=true&locale=en&layout=compact" alt="sakif-anam" /></p>
+### 💫 About Me
+
+- 💻 **Frontend Focused:** Building clean, responsive, and accessible UIs  
+- ⚙️ **Tech Explorer:** Loves playing with **HTML, CSS, JS, and C++**  
+- 🎮 **Pac-Man Mindset:** Always hungry for new challenges and learning  
+- 🧩 **Problem Solver:** Minimal code, maximum impact  
+- 🪄 **Goal:** To craft stunning and meaningful web experiences  
+
+---
+
+### 🎯 Skills & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,cpp,c,python,git,github,vscode,figma&theme=dark" />
+</p>
+
+---
+
+### 👾 Code Maze (Pac-Man Mode)
+
+<p align="center">
+🔷💠🔹🍒🔷💠🔹🔷  
+💠🔷🍒🔹💠🔷💠🍒  
+🔹🍒🔹💠🔷🔹💠🔷  
+💠🔷🔹🍒💠🔹🔷💠  
+</p>
+
+> 🎮 Eat bugs, collect ideas, and keep coding forward!
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sakif-Anam&show_icons=true&theme=tokyonight&title_color=00BFFF&icon_color=FFD700" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sakif-Anam&theme=tokyonight&fire=00FFFF&ring=FFD700&currStreakLabel=00FFFF" height="150" />
+</p>
+
+---
+
+### 💻 Language Breakdown
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakif-Anam&layout=compact&theme=tokyonight" height="150" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Sakif-Anam"><img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github" /></a>
+  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Gmail-0078D4?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <em>👾 Keep coding, keep collecting — every pixel counts in the maze of creation! 💙</em>
+</p>
