@@ -2,7 +2,7 @@
   💙 Ahoy, I'm <a href="https://github.com/Sakif-Anam" target="_blank">Sakif Anam</a> 👾
 </h1>
 
-<h3 align="center"> Frontend Developer | UI Explorer | Pac-Man of the Code Maze 🎮</h3>
+<h3 align="center"> Frontend Developer | Competitive Programmar | </h3>
 
 ---
 
